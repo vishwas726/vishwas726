@@ -90,7 +90,7 @@ Government Polytechnic Jalna (2019 – 2022)
 ## 📫 Connect With Me
 
 - 📧 Email: vishwaslandge2004@gmail.com  
-- 💼 Portfolio: *vishwas.onrender.com*  
+- 💼 Portfolio: *https://vishwas.onrender.com*  
 - 🌐 LinkedIn: *www.linkedin.com/in/vishwas726*  
 
 ---
