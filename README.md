@@ -11,7 +11,7 @@ I am a passionate **Software Developer** with hands-on experience in building **
 ### Frontend
 - HTML, CSS, JavaScript, TypeScript  
 - React.js, Next.js  
-- Tailwind CSS, Bootstrap  
+- Tailwind CSS, Bootstrap, Shadcn
 
 ### Backend
 - Node.js, Express.js  
@@ -20,6 +20,8 @@ I am a passionate **Software Developer** with hands-on experience in building **
 
 ### Database
 - MongoDB  
+- PostgreSQL
+- Redis
 
 ### Tools
 - Git & GitHub  
