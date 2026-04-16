@@ -52,14 +52,6 @@ I am a passionate **Software Developer** with hands-on experience in building **
 - Optimized component structure & state management
 - Improved application performance by **25%**
 
-### Software Developer Intern — **Intelisync** (Mar 2025 – May 2025)
-- Developed responsive UIs with **React.js & Tailwind CSS**
-- Reduced page load time by **30%**
-
-### Software Intern — **Prym Aerospace** (Oct 2024 – Jan 2025)
-- Worked on full-stack development using **React, Node.js & Express**
-- Contributed to real-time project features
-
 ---
 
 ## 🚀 Projects
